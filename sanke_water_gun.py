@@ -5,7 +5,6 @@
 # Play this game 10 times
 # count the no of times each person one
 import random
-from tkinter import N
 import emoji 
 print("Welcome to the Snake Water Gun Game")
 print("You are against the Computer")
